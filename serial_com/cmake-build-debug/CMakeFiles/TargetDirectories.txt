@@ -1,0 +1,9 @@
+/home/msobral/CLionProjects/serial_com/cmake-build-debug/CMakeFiles/serial_com.dir
+/home/msobral/CLionProjects/serial_com/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/msobral/CLionProjects/serial_com/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/msobral/CLionProjects/serial_com/cmake-build-debug/_deps/serialpp-build/CMakeFiles/SerialPP.dir
+/home/msobral/CLionProjects/serial_com/cmake-build-debug/_deps/serialpp-build/CMakeFiles/edit_cache.dir
+/home/msobral/CLionProjects/serial_com/cmake-build-debug/_deps/serialpp-build/CMakeFiles/rebuild_cache.dir
+/home/msobral/CLionProjects/serial_com/cmake-build-debug/_deps/poller-build/CMakeFiles/poller.dir
+/home/msobral/CLionProjects/serial_com/cmake-build-debug/_deps/poller-build/CMakeFiles/edit_cache.dir
+/home/msobral/CLionProjects/serial_com/cmake-build-debug/_deps/poller-build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=/app/extra/clion/bin/cmake/linux/x64/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/home/msobral/CLionProjects/serial_com/cmake-build-debug/CMakeFiles/fc-stamp/poller/download-poller.cmake;COMMAND;/app/extra/clion/bin/cmake/linux/x64/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/home/msobral/CLionProjects/serial_com/cmake-build-debug/CMakeFiles/fc-stamp/poller/verify-poller.cmake;COMMAND;/app/extra/clion/bin/cmake/linux/x64/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/home/msobral/CLionProjects/serial_com/cmake-build-debug/CMakeFiles/fc-stamp/poller/extract-poller.cmake
+source_dir=/home/msobral/CLionProjects/serial_com/cmake-build-debug/_deps/poller-src
+work_dir=/home/msobral/CLionProjects/serial_com/cmake-build-debug/_deps
+url(s)=https://github.com/IFSCEngtelecomPTC/Poller/archive/refs/tags/v1.0.1.tar.gz
+hash=
+      no_extract=
+

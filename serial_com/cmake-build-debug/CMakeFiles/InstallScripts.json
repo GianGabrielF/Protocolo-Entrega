@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/msobral/CLionProjects/serial_com/cmake-build-debug/cmake_install.cmake",
+		"/home/msobral/CLionProjects/serial_com/cmake-build-debug/_deps/serialpp-build/cmake_install.cmake",
+		"/home/msobral/CLionProjects/serial_com/cmake-build-debug/_deps/poller-build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

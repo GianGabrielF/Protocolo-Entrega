@@ -1,0 +1,32 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "/home/msobral/CLionProjects/serial_com/cmake-build-debug",
+	"dir-cur-src" : "/home/msobral/CLionProjects/serial_com",
+	"dir-top-bld" : "/home/msobral/CLionProjects/serial_com/cmake-build-debug",
+	"dir-top-src" : "/home/msobral/CLionProjects/serial_com",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"_deps/serialpp-src",
+		"/home/msobral/CLionProjects/serial_com/.",
+		"_deps/poller-src"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/msobral/CLionProjects/serial_com/cmake-build-debug/CMakeFiles/serial_com.dir",
+	"sources" : 
+	{
+		"CMakeFiles/serial_com.dir/main.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/msobral/CLionProjects/serial_com/main.cpp"
+		}
+	}
+}
